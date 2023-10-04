@@ -6,7 +6,7 @@ function App() {
     <div>
       <Header />
       {/* <img src={logo} className="App-logo" alt="logo" /> */}
-      <main>This is the main content !!!TEST!!!!! TSTS</main>
+      <main>This is the main content !!!TEST!!!!! TSTS!!!</main>
     </div>
   );
 }
